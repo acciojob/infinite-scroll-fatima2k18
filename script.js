@@ -1,6 +1,5 @@
 //your code here!
-
-const list = document.getElementById("list");
+const list = document.getElementById("infi-list");
 
 // Start with 10 default list items
 let count = 10;
